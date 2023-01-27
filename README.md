@@ -6,11 +6,10 @@
 - 🌱 I’m always learning something new.
 - ✅ I'm working with microservices architecture, nosQL db's Spring Framework ( Mvc & WEBFLUX ). 
 - 💞️ I love orchestating ms thrue business service's logic.
-    $${\color{lightgreen}check -> andreacavallo.com}$$    
 - 📫 How to reach me -> [a.cavallo@outlook.it](https://www.linkedin.com/in/andrea-cavallo-3b354a135/).
 
 
-## ABOUT ME
+$${\color{red}## ABOUT ME}$$
 
 As a backend developer, I have written various functions, 
                 debugged microservices, 
