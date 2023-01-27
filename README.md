@@ -1,12 +1,12 @@
 
-@@## HELLO EVERYONE & WELCOME@@
+## HELLO EVERYONE & WELCOME
 
 - 👋 Hi, I’m @Andrea-Cavallo and I am a Software Developer working for *** project.
 - 👀 I’m interested in new technologies.
 - 🌱 I’m always learning something new.
 - ✅ I'm working with microservices architecture, nosQL db's Spring Framework ( Mvc & WEBFLUX ). 
 - 💞️ I love orchestating ms thrue business service's logic.
-
+    $${\color{lightgreen}Light \check -> andreacavallo.com}$$    
 - 📫 How to reach me -> [a.cavallo@outlook.it](https://www.linkedin.com/in/andrea-cavallo-3b354a135/).
 
 
@@ -36,7 +36,7 @@ I have implemented orchestration logic using WS02 and Apache Camel,
                   and it allowed for a more robust and flexible architecture
                   
                   
-                 
+$${\color{lightgreen}Light \Hobby}$$                 
 My hobby is to produce music.
                  I have honed my skills in recording, editing, and mixing audio tracks,
                  as well as creating beats and loops. I am well-versed in sound design, 
