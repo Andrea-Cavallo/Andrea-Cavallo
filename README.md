@@ -9,7 +9,7 @@
 - 📫 How to reach me -> [a.cavallo@outlook.it](https://www.linkedin.com/in/andrea-cavallo-3b354a135/).
 
 
-$${\color{red}## ABOUT ME}$$
+## $${\color{red} ABOUT ME}$$
 
 As a backend developer, I have written various functions, 
                 debugged microservices, 
