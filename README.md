@@ -10,6 +10,7 @@
 - 📫 How to reach me -> [a.cavallo@outlook.it](https://www.linkedin.com/in/andrea-cavallo-3b354a135/).
 
 
+## ABOUT ME
 
 As a backend developer, I have written various functions, 
                 debugged microservices, 
@@ -21,6 +22,7 @@ As a backend developer, I have written various functions,
                 test cases that cover all the possible scenarios. 
                 This not only guarantees the quality of the code but also helps 
                 in maintaining it over time.
+
 
 I have implemented orchestration logic using WS02 and Apache Camel,
                   specifically for mediating between microservices. 
@@ -35,8 +37,7 @@ I have implemented orchestration logic using WS02 and Apache Camel,
                   
                   
                  
-As a music producer, 
-                 creating and recording music using tools like Logic Pro is my hobby.
+My hobby is to produce music.
                  I have honed my skills in recording, editing, and mixing audio tracks,
                  as well as creating beats and loops. I am well-versed in sound design, 
                  I enjoy composing and arranging music in various genres, 
