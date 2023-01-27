@@ -9,7 +9,7 @@
 - 📫 How to reach me -> [a.cavallo@outlook.it](https://www.linkedin.com/in/andrea-cavallo-3b354a135/).
 
 
-## $${\color{red} ABOUT ME}$$
+## $${\color{red} ABOUT   ME}$$
 
 As a backend developer, I have written various functions, 
                 debugged microservices, 
@@ -35,7 +35,8 @@ I have implemented orchestration logic using WS02 and Apache Camel,
                   and it allowed for a more robust and flexible architecture
                   
                   
-$${\color{lightgreen}Hobby}$$                 
+
+## $${\color{lightgreen}MY HOBBY }$$                 
 My hobby is to produce music.
                  I have honed my skills in recording, editing, and mixing audio tracks,
                  as well as creating beats and loops. I am well-versed in sound design, 
